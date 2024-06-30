@@ -1,0 +1,1 @@
+JSON data som kategoriserer fylke og kommune i fylker.
